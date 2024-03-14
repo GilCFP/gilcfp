@@ -22,8 +22,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/gilcfp/" rel="noopener noreferrer">
     
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black)
- </a><a target="_blank" href="mailto:gilbertocfp@gmail.com" rel="noopener noreferrer">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+ </a><a target="_blank" href="mailto:gilbertocfp@gmail.com" rel="noopener noreferrer"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  </a><a target="_blank" href="htts://wa.me/+5531989213846" rel="noopener noreferrer"> ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
   
   </a>
+  
   
 </div>
