@@ -19,9 +19,13 @@
 
 <div style="margin-top: 20px; display: flex">
 	<br>
-	
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilcfp/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertocfp@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531989213846)
-
+  	<a href="https://www.linkedin.com/in/gilcfp/" target="_blank" style="text-decoration: none;"> 
+    	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  	</a>
+  	<a href="mailto:gilbertocfp@gmail.com" target="_blank" style="text-decoration: none;"> 
+    	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  	</a>
+  	<a href="https://wa.me/+5531989213846" target="_blank" style="text-decoration: none;"> 
+    	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  	</a>
 </div>
