@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I'm looking forward for opportunities on backend / fullstack
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: gilbertocfp@gmail.com<br>
 <br>
