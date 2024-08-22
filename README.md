@@ -4,7 +4,7 @@
 - 📫 How to reach me: gilbertocfp@gmail.com<br>
 <br>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilCFP&hide=powershell,makefile&exclude_repo=teste_de_afinidade&size_weight=0.5&count_weight=0.8&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GilCFP&hide=powershell,makefile,css,CMAKE&exclude_repo=teste_de_afinidade&size_weight=0.5&count_weight=0.8&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gil-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
