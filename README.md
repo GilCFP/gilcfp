@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++
+- 📚 Systems Engineering
+- 🤖 I currently develop chatbot at Skeps, with national and international clients and covering millions of users
 - 📫 How to reach me: gilbertocfp@gmail.com<br>
 <br>
 
