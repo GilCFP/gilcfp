@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📚 Systems Engineering
-- 🤖 I currently develop chatbots at Skeps, with national and international clients and covering millions of users
+- 🤖 I currently develop at Skeps, with national and international clients and covering millions of users
 - 📫 How to reach me: gilbertocfp@gmail.com<br>
 <br>
 
