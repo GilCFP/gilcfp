@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📚 Systems Engineering
-- 🤖 I currently develop at Skeps, with national and international clients and covering millions of users
 - 📫 How to reach me: gilbertocfp@gmail.com<br>
 - 🏐 Founder of FairSet: <a src="https://fairset.com.br/" target="blank">https://fairset.com.br/<a/>
 <br>
