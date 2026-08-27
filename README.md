@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Dynamic Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30,40&height=220&section=header&text=Gilberto%20CFP&fontSize=62&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Creator%20of%20FairSet%20%7C%20Full-Stack%20%26%20Mobile%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+<!-- Native Vector Wave Header -->
+<img src="./assets/header.svg" width="100%" alt="Gilberto CFP Header" />
 
 <!-- Typing Animation -->
 <a href="https://fairset.com.br">
@@ -138,12 +138,5 @@
       </td>
     </tr>
   </table>
-</div>
-
----
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,30,24,12,1&height=120&section=footer" width="100%"/>
 </div>
 

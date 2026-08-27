@@ -1,0 +1,52 @@
+<svg fill="none" viewBox="0 0 900 200" width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#0A1120" />
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.2" />
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284C7" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#6366F1" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0.4" />
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#F472B6" />
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#818CF8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#C084FC" stop-opacity="0.5" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="900" height="200" rx="14" fill="url(#bgGrad)" />
+  <rect x="0.5" y="0.5" width="899" height="199" rx="13.5" stroke="url(#borderGrad)" stroke-width="1" />
+
+  <!-- Smooth Background Waves -->
+  <path d="M0 140 C 200 110, 400 180, 600 130 C 750 100, 830 125, 900 115 L 900 200 L 0 200 Z" fill="url(#wave1)" />
+  <path d="M0 160 C 250 125, 450 195, 680 150 C 780 130, 850 155, 900 145 L 900 200 L 0 200 Z" fill="url(#wave2)" />
+
+  <!-- Top Accent Dots -->
+  <circle cx="35" cy="30" r="4.5" fill="#EF4444" opacity="0.8" />
+  <circle cx="50" cy="30" r="4.5" fill="#F59E0B" opacity="0.8" />
+  <circle cx="65" cy="30" r="4.5" fill="#10B981" opacity="0.8" />
+
+  <!-- Main Title -->
+  <text x="450" y="88" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="800" fill="url(#textGrad)" letter-spacing="1.5">
+    GILBERTO CFP
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="122" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="500" fill="#94A3B8" letter-spacing="1.5">
+    SOFTWARE ENGINEER • FOUNDER OF FAIRSET • FULL-STACK ARCHITECT
+  </text>
+</svg>
