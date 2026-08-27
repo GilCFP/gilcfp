@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://fairset.com.br">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+FairSet+%E2%80%94+Volleyball+Analytics+%26+Management+Platform;800%2B+Active+Users+on+iOS%2C+Android+%26+Web;Full-Stack+Architecture+(React+%2B+Capacitor%2C+NestJS%2C+PostgreSQL);TrueSkill+Player+Ratings%2C+Match+Scoring+%26+Team+Finances" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+FairSet+%E2%80%94+Volleyball+Analytics+%26+Management+Platform;Systems+Engineer+(UFMG)+%7C+Full-Stack+%26+Cloud+Architect;AWS+(Lambda%2C+SQS%2C+S3%2C+ECS%2C+EventBridge)+%26+GCP;Multi-Agent+AI+Orchestration%2C+RAG+Pipelines+%26+ALM" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -53,7 +53,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>1v1 Duels &amp; TrueSkill Ratings</h4>
-      <p>Advanced post-match player evaluation engine based on pairwise 1v1 duel voting aggregated into calibrated, zero-sum TrueSkill rating progression.</p>
+      <p>Advanced post-match player evaluation engine based on pairwise 1v1 duel voting aggregated into calibrated, zero-sum TrueSkill Bayesian statistical rating progression.</p>
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,c,react,vite,tailwind,nestjs,nodejs,postgres,prisma,supabase,firebase,docker,azure" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,react,nextjs,tailwind,nestjs,nodejs,fastapi,postgres,prisma,mongodb,aws,gcp,docker" alt="Tech Stack Icons" />
 </p>
 
 #### Languages
@@ -98,27 +98,50 @@
 #### Frontend &amp; Native Mobile
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Capacitor_(iOS_%26_Android)-119EFF?style=flat-square&logo=capacitor&logoColor=white" alt="Capacitor" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
 </p>
 
-#### Backend &amp; Distributed Services
+#### Backend &amp; Distributed Architecture
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase_Functions-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Functions" />
-  <img src="https://img.shields.io/badge/Google_Cloud_Tasks-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Tasks" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-#### Database, Auth &amp; Infrastructure
+#### Cloud Infrastructure (AWS &amp; GCP)
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" alt="Amazon SQS" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/Amazon_ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white" alt="Amazon ECS" />
+  <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" alt="API Gateway" />
+  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazoneventbridge&logoColor=white" alt="EventBridge" />
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" alt="CloudWatch" />
+  <img src="https://img.shields.io/badge/GCP_(Cloud_Run_%7C_Cloud_Tasks)-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+#### Artificial Intelligence, Multi-Agent &amp; ALM
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents_%26_Multi--Agent_Orchestration-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines_%26_Vector_Search-10B981?style=flat-square&logo=googlegemini&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/ALM_Architecture-F59E0B?style=flat-square&logo=git&logoColor=white" alt="ALM" />
+  <img src="https://img.shields.io/badge/Vertex_AI_%7C_OpenAI_%7C_Gemini-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="LLM APIs" />
+</p>
+
+#### Databases &amp; ORMs
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL_(pgvector)-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Firebase_Auth-FFA611?style=flat-square&logo=firebase&logoColor=black" alt="Firebase Auth" />
-  <img src="https://img.shields.io/badge/Azure_Pipelines-0078D7?style=flat-square&logo=azurepipelines&logoColor=white" alt="Azure Pipelines" />
 </p>
 
 </div>
